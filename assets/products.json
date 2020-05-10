@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Round Table Cloth",
+    "imgURL": "assets/images/products/table-cloth-round.jpg"
+  },
+  {
+    "name": "Satin Band Napkins",
+    "imgURL": "assets/images/products/satin-napkins.jpg"
+  },
+  {
+    "name": "Comforters and Quilts",
+    "imgURL": "assets/images/products/comforter.jpg"
+  },
+  {
+    "name": "Mattress Protectors",
+    "imgURL": "assets/images/products/mattress-protector.jpg"
+  },
+  {
+    "name": "Pillows",
+    "imgURL": "assets/images/products/pillows.jpg"
+  },
+  {
+    "name": "Seat Cushions",
+    "imgURL": "assets/images/products/seat-cushion.jpg"
+  }
+]
